@@ -1,19 +1,11 @@
-# zhaoxinwo-android
 zhaoxinwo android source code
 ===
 
-Introduction
----
+This is the zhaoxinwo android source code. The server side source code is here: <https://github.com/zhaoxinwo/zufang>.
 
-zhaoxinwo can help you search douban rental data(e.g. <http://www.douban.com/group/26926/>).
+![](https://github.com/zhaoxinwo/zufang/raw/master/screenshot1.jpg)
 
-Up till now, zhaoxinwo has been running for 8 months and more than one thousand users used it.
-
-![](screenshot.png)
-
-![](screenshot1.jpg)
-
-![](screenshot2.jpg)
+![](https://github.com/zhaoxinwo/zufang/raw/master/screenshot2.jpg)
 
 Website
 ---
@@ -29,6 +21,3 @@ License
 ---
 
 MIT
-
-[@zhangxiaoyang](https://github.com/zhangxiaoyang)
-[@jiadebin](https://github.com/jiadebin)
